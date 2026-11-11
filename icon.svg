@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Логотип «Пауза»: бирюзовое кольцо с вырезом сверху и точка в центре -->
+  <rect width="512" height="512" rx="96" fill="#1A202C"/>
+  <circle cx="256" cy="256" r="170" fill="none" stroke="#40E0D0" stroke-width="30" stroke-linecap="round" stroke-dasharray="746 110"/>
+  <circle cx="256" cy="256" r="36" fill="#40E0D0"/>
+</svg>
